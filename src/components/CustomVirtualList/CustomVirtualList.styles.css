@@ -1,0 +1,12 @@
+.custom-virtual-list {
+  height: 400px;
+  width: 300px;
+  overflow-y: scroll;
+  border: 1px;
+  border-style: solid;
+  border-color: red;
+}
+
+.no-elements {
+  text-align: center;
+}
